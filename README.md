@@ -19,5 +19,4 @@
         </li>
         <li> Nicolas Campos- 202308428896.</li>
         
-    </ul>
-    Nosso grupo decidiu fazer um site de receitas diversas onde o usuário terá uma interação com a imagem da comida, quando colocar o cursor do mouse sobre a foto, irá aparecer a receita ao lado.
+    Nosso grupo decidiu fazer um site de receitas diversas contendo um carrosel com algumas imagens, uma área de cadastramento do usuário e uma frase inspiradora em nossa home tendo âncoras para abas de categorias de receitas, como: salgadas, doces e veganas.
